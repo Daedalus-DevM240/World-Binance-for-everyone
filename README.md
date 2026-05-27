@@ -37,8 +37,9 @@ Aligning financial capital with human and research potential is ultimately the o
 # DOES-WORK--
 <img width="963" height="958" alt="image" src="https://github.com/user-attachments/assets/cf84cd05-1c3a-4410-a3fd-ca23ca57d3bf" />
 
- QR APP
+ 
  <img width="256" height="253" alt="image" src="https://github.com/user-attachments/assets/0a31336e-6b89-46a4-a415-a8e3ea3d5568" />
+ 
  <img width="637" height="235" alt="image" src="https://github.com/user-attachments/assets/a91f01b3-6e60-457c-89d9-1192670033d6" />
 
 
